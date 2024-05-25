@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69250148047",
+    "project_id": "onlinestorage-2942c",
+    "storage_bucket": "onlinestorage-2942c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69250148047:android:ee3e5108fe2b94e39e39ba",
+        "android_client_info": {
+          "package_name": "com.example.onlinestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69250148047-t3tibcou43liucikt97h44rhm3bav1vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZIOxvTgGSG2_JPwHG6b78JzWdbf_j9ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69250148047-t3tibcou43liucikt97h44rhm3bav1vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
